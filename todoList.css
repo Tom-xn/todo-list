@@ -1,0 +1,12 @@
+li{
+    border: rgba(47,178,211,0.9) 2.5px solid ;
+}
+#dance{
+    background: wheat;
+}
+.done{
+    text-decoration: line-through red;
+}
+body{
+    background: rgba(59, 59, 59, 0.897);
+}
